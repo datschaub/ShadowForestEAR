@@ -3,8 +3,8 @@
 	<name>ShadowForestEAR</name>
 	<comment></comment>
 	<projects>
-		<project>ShadowForestClientProject</project>
 		<project>ShadowForestEJBProject</project>
+		<project>ShadowClient</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
